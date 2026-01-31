@@ -31,11 +31,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vibe Coding a Pokémon Search App with Cursor](https://dev.to/nikola/vibe-coding-a-pokemon-search-app-with-cursor-1hid)
+- [Vibe Coding a Pokémon Search App with Replit](https://dev.to/nikola/vibe-coding-a-pokemon-search-app-with-replit-38fd)
 - [Getting started with React by building a Pokemon search application](https://dev.to/nikola/getting-started-with-react-by-building-a-pokemon-search-application-3pm)
 - [Espanso: Because Who Actually Likes Typing Out Their Emails?](https://dev.to/nikola/espanso-because-who-actually-likes-typing-out-their-emails-3mpa)
 - [Getting started with Vue.js 3 by building a Pokemon search application](https://dev.to/nikola/getting-started-with-vuejs-3-by-building-a-pokemon-search-application-1afn)
-- [Solving the &#39;Retry as Admin&#39; while saving files in Visual Studio Code on a Mac](https://dev.to/nikola/solving-the-retry-as-admin-while-saving-files-in-visual-studio-code-on-a-mac-12i1)
-- [Cybersecurity Alert: The New Phishing Scam Hitting OpenSea Users](https://dev.to/nikola/cybersecurity-alert-the-new-phishing-scam-hitting-opensea-users-273l)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
