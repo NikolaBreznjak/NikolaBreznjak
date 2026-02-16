@@ -31,11 +31,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to find a branch parent in Git](https://dev.to/nikola/how-to-find-a-branch-parent-in-git-4iil)
 - [Caffeinate your Mac to prevent it from sleeping](https://dev.to/nikola/caffeinate-your-mac-to-prevent-it-from-sleeping-4o7a)
 - [Vibe Coding a Pokémon Search App with Cursor](https://dev.to/nikola/vibe-coding-a-pokemon-search-app-with-cursor-1k8b)
 - [Vibe Coding a Pokémon Search App with Replit](https://dev.to/nikola/vibe-coding-a-pokemon-search-app-with-replit-11k9)
 - [Vibe Coding a Pokémon Search App with Cursor](https://dev.to/nikola/vibe-coding-a-pokemon-search-app-with-cursor-1hid)
-- [Vibe Coding a Pokémon Search App with Replit](https://dev.to/nikola/vibe-coding-a-pokemon-search-app-with-replit-38fd)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
