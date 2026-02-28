@@ -31,11 +31,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Keyboard Layout Lie That’s Making Us Type Slower](https://dev.to/nikola/the-keyboard-layout-lie-thats-making-us-type-slower-45h1)
 - [Stop Tabbing. Start Using Your Monitor](https://dev.to/nikola/stop-tabbing-start-using-your-monitor-59k7)
 - [StackOverflow - was it worth it?](https://dev.to/nikola/stackoverflow-was-it-worth-it-21ki)
 - [When espanso breaks on long replacement strings &lpar;and how to fix it&rpar;](https://dev.to/nikola/when-espanso-breaks-on-long-replacement-strings-and-how-to-fix-it-8cm)
 - [Get in the Habit of Learning Daily](https://dev.to/nikola/get-in-the-habit-of-learning-daily-370a)
-- [How to find a branch parent in Git](https://dev.to/nikola/how-to-find-a-branch-parent-in-git-4iil)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
