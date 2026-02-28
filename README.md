@@ -31,7 +31,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Keyboard Layout Lie That’s Making Us Type Slower](https://dev.to/nikola/the-keyboard-layout-lie-thats-making-us-type-slower-45h1)
+- [The Keyboard Layout That’s Making Us Type Slower](https://dev.to/nikola/the-keyboard-layout-lie-thats-making-us-type-slower-45h1)
 - [Stop Tabbing. Start Using Your Monitor](https://dev.to/nikola/stop-tabbing-start-using-your-monitor-59k7)
 - [StackOverflow - was it worth it?](https://dev.to/nikola/stackoverflow-was-it-worth-it-21ki)
 - [When espanso breaks on long replacement strings &lpar;and how to fix it&rpar;](https://dev.to/nikola/when-espanso-breaks-on-long-replacement-strings-and-how-to-fix-it-8cm)
