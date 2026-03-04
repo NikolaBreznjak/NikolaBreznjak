@@ -31,11 +31,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Productivity tip: rate things 1-10 without 7](https://dev.to/nikola/productivity-tip-rate-things-1-10-without-7-20a8)
 - [Productivity: Paper, Pomodoro, Kanban, Tracking, and actually showing up](https://dev.to/nikola/productivity-paper-pomodoro-kanban-tracking-and-actually-showing-up-16k2)
 - [The Keyboard Layout That’s Making Us Type Slower](https://dev.to/nikola/the-keyboard-layout-lie-thats-making-us-type-slower-45h1)
 - [Stop Tabbing. Start Using Your Monitor](https://dev.to/nikola/stop-tabbing-start-using-your-monitor-59k7)
 - [StackOverflow - was it worth it?](https://dev.to/nikola/stackoverflow-was-it-worth-it-21ki)
-- [When espanso breaks on long replacement strings &lpar;and how to fix it&rpar;](https://dev.to/nikola/when-espanso-breaks-on-long-replacement-strings-and-how-to-fix-it-8cm)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
