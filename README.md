@@ -31,11 +31,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why You Should Start Blogging &lpar;Even If Nobody Will Read It&rpar;](https://dev.to/nikola/why-you-should-start-blogging-even-if-nobody-will-read-it-4h6)
 - [Speed Reading](https://dev.to/nikola/speed-reading-2m5p)
 - [Impostor syndrome](https://dev.to/nikola/impostor-syndrome-24di)
 - [Why Strange Images Make You Remember Better](https://dev.to/nikola/why-strange-images-make-you-remember-better-3l1a)
 - [Productivity tip: rate things 1-10 without 7](https://dev.to/nikola/productivity-tip-rate-things-1-10-without-7-20a8)
-- [Productivity: Paper, Pomodoro, Kanban, Tracking, and actually showing up](https://dev.to/nikola/productivity-paper-pomodoro-kanban-tracking-and-actually-showing-up-16k2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
