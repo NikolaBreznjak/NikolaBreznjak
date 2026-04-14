@@ -31,11 +31,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Are Book Summaries Worth It?](https://dev.to/nikola/are-book-summaries-worth-it-488b)
 - [Book review: 5 Love Languages](https://dev.to/nikola/book-review-5-love-languages-329b)
 - [Why You Should Start Blogging &lpar;Even If Nobody Will Read It&rpar;](https://dev.to/nikola/why-you-should-start-blogging-even-if-nobody-will-read-it-4h6)
 - [Speed Reading](https://dev.to/nikola/speed-reading-2m5p)
 - [Impostor syndrome](https://dev.to/nikola/impostor-syndrome-24di)
-- [Why Strange Images Make You Remember Better](https://dev.to/nikola/why-strange-images-make-you-remember-better-3l1a)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
