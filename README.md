@@ -31,11 +31,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FOMO as a Developer: You&#39;re Not Behind, You&#39;re Just Human](https://dev.to/nikola/fomo-as-a-developer-youre-not-behind-youre-just-human-1ggp)
 - [If only life had an XP bar](https://dev.to/nikola/if-only-life-had-an-xp-bar-5ffd)
 - [Are Book Summaries Worth It?](https://dev.to/nikola/are-book-summaries-worth-it-488b)
 - [Book review: 5 Love Languages](https://dev.to/nikola/book-review-5-love-languages-329b)
 - [Why You Should Start Blogging &lpar;Even If Nobody Will Read It&rpar;](https://dev.to/nikola/why-you-should-start-blogging-even-if-nobody-will-read-it-4h6)
-- [Speed Reading](https://dev.to/nikola/speed-reading-2m5p)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
